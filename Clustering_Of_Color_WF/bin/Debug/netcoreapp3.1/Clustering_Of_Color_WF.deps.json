@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clustering_Of_Color_WF/1.0.0": {
+        "runtime": {
+          "Clustering_Of_Color_WF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clustering_Of_Color_WF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

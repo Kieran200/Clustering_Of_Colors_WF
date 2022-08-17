@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wcte9IdlivGmRMdO6PISmYD1WglvylprdDNJNg5WYHuoA2ZdgbKBYB1hgifge8gNC1onn2kyy2JxhLUwbllY+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Владелец\\source\\repos\\Clustering_Of_Color_WF\\Clustering_Of_Color_WF\\Clustering_Of_Color_WF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Владелец\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

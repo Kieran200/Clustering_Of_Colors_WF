@@ -1,0 +1,17 @@
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.exe
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.deps.json
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.runtimeconfig.json
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.runtimeconfig.dev.json
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.dll
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\bin\Debug\netcoreapp3.1\Clustering_Of_Color_WF.pdb
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.csproj.AssemblyReference.cache
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.Form1.resources
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.csproj.GenerateResource.cache
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.AssemblyInfoInputs.cache
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.AssemblyInfo.cs
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.dll
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.pdb
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.genruntimeconfig.cache
+C:\Users\Владелец\source\repos\Clustering_Of_Color_WF\Clustering_Of_Color_WF\obj\Debug\netcoreapp3.1\Clustering_Of_Color_WF.Properties.Resources.resources
