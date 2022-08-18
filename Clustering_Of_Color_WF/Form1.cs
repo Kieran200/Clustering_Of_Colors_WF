@@ -46,7 +46,7 @@ namespace Clustering_Of_Color_WF
                     {
                         j++;
                         SolidBrush brush = new SolidBrush(Color.FromArgb(subject.red_intensity, subject.green_intensity, subject.blue_intensity));
-                        g.FillRectangle(brush, i * 50, j * 50, 50, 50);
+                        g.FillRectangle(brush, i * 20, j * 20, 20, 20);
                     } 
             }
             

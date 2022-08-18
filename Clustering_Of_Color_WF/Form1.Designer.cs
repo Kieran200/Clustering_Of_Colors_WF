@@ -166,7 +166,7 @@ namespace Clustering_Of_Color_WF
             this.Btn_Definition.Name = "Btn_Definition";
             this.Btn_Definition.Size = new System.Drawing.Size(144, 29);
             this.Btn_Definition.TabIndex = 15;
-            this.Btn_Definition.Text = "определить цвет";
+            this.Btn_Definition.Text = "Определить цвет";
             this.Btn_Definition.UseVisualStyleBackColor = true;
             this.Btn_Definition.Click += new System.EventHandler(this.Btn_Definition_Click);
             // 

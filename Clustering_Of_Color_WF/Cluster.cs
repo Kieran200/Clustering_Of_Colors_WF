@@ -28,9 +28,9 @@ namespace Clustering_Of_Color_WF
 
                 //устанавливаем расстояние между кластерами в 10 по всем координатам
                 int free_field = 1;
-                for (int i = 0; i < 10; i++)
-                    for (int j = 0; j < 10; j++)
-                        for (int k = 0; k < 10; k++)
+                for (int i = 0; i < 20; i++)
+                    for (int j = 0; j < 20; j++)
+                        for (int k = 0; k < 20; k++)
                         {
                             if (center_green + i >= field.GetLength(0) || center_green - i < 0 ||
                                 center_red + j >= field.GetLength(1) || center_red - j < 0 ||
